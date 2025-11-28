@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/gyanendrashah/Desktop/oms-lite/app/dashboard/page.js"],"sourcesContent":["\"use client\";\nimport React from 'react'\nimport YouTubeVideo from '../components/HeroPageVideo';\n\nfunction Omslite() {\n  return (\n    <div>   \n      <YouTubeVideo/> \n    </div>\n  )\n}\n\nexport default Omslite\n"],"names":[],"mappings":";;;;;AACA;;;;;;AADA;;;;AAIA,SAAS;IACP,qBACE,6LAAC;kBACC,cAAA,6LAAC;;;;;;;;;;AAGP;KANS;uCAQM"}},
+    {"offset": {"line": 43, "column": 0}, "map": {"version":3,"sources":["file:///Users/gyanendrashah/Desktop/oms-lite/app/page.tsx"],"sourcesContent":["\"use client\";\nimport Omslite from \"./dashboard/page\";\nexport default function Home() {\n  return <Omslite />;\n}\n"],"names":[],"mappings":";;;;;AACA;AADA;;;AAEe,SAAS;IACtB,qBAAO,6LAAC,sIAAO;;;;;AACjB;KAFwB"}}]
+}
