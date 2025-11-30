@@ -7,11 +7,10 @@ export default function TabBar() {
 
   const tabs = [
     { id: 'accounting', label: 'Accounting' },
-    { id: 'inventory', label: 'Inventory' },
-    { id: 'invoicing', label: 'Invoicing' },
-    { id: 'pos', label: 'Point of Sales' },
-    { id: 'documents', label: 'Documents' },
-    { id: 'reporting', label: 'Reporting' }
+    { id: 'softwaredevelopment', label: 'Software Development' },
+    { id: 'cloudcomputing', label: 'Cloud Computing' },
+    { id: 'websolutions', label: 'Web & App Solutions' },
+    { id: 'graphicdesign', label: 'Graphic Design & Animation' }
   ];
 
   const tabContent = {
@@ -27,8 +26,8 @@ export default function TabBar() {
       ],
       image: '/accounting-preview.png'
     },
-    inventory: {
-      title: 'Inventory',
+    softwaredevelopment: {
+      title: 'Software Development',
       description: 'Manage your inventory with real-time tracking and automated stock updates.',
       features: [
         'Real-time Stock Tracking',
@@ -39,8 +38,8 @@ export default function TabBar() {
       ],
       image: '/inventory-preview.png'
     },
-    invoicing: {
-      title: 'Invoicing',
+    cloudcomputing: {
+      title: 'Cloud Computing',
       description: 'Create professional invoices and get paid faster with automated reminders.',
       features: [
         'Customizable Invoice Templates',
@@ -51,8 +50,8 @@ export default function TabBar() {
       ],
       image: '/invoicing-preview.png'
     },
-    pos: {
-      title: 'Point of Sales',
+    websolutions: {
+      title: 'Web & App Solutions',
       description: 'Streamline your retail operations with our integrated POS system.',
       features: [
         'Quick Sales Processing',
@@ -63,8 +62,8 @@ export default function TabBar() {
       ],
       image: '/pos-preview.png'
     },
-    documents: {
-      title: 'Documents',
+    graphicdesign: {
+      title: 'Graphic Design & Animation',
       description: 'Store and manage all your business documents in one secure place.',
       features: [
         'Cloud Storage Integration',
@@ -74,25 +73,14 @@ export default function TabBar() {
         'Automated Backup'
       ],
       image: '/documents-preview.png'
-    },
-    reporting: {
-      title: 'Reporting',
-      description: 'Generate comprehensive reports and gain insights into your business.',
-      features: [
-        'Financial Statements',
-        'Custom Report Builder',
-        'Real-time Analytics',
-        'Export to Multiple Formats',
-        'Scheduled Report Delivery'
-      ],
-      image: '/reporting-preview.png'
     }
+   
   };
 
   const content = tabContent[activeTab];
 
   return (
-    <section className="bg-gradient-to-b from-indigo-50 to-white py-16 px-4 sm:px-6 lg:px-8">
+    <section className="bg-linear-to-b from-indigo-50 to-white py-16 px-4 sm:px-6 lg:px-8">
       <div className="max-w-7xl mx-auto">
         {/* Heading */}
         <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-center text-gray-900 mb-12">
@@ -101,7 +89,7 @@ export default function TabBar() {
         </h2>
 
         {/* Tab Bar */}
-        <div className="bg-white rounded-full shadow-lg p-2 mb-16 max-w-5xl mx-auto">
+        <div className="bg-white rounded-full shadow-lg p-2 mb-16 max-w-6xl mx-auto">
           <div className="flex flex-wrap justify-center gap-2">
             {tabs.map((tab) => (
               <button
@@ -124,7 +112,7 @@ export default function TabBar() {
           {/* Left Side - Preview Image */}
           <div className="order-2 lg:order-1">
             <div className="bg-white rounded-2xl shadow-xl p-6">
-              <div className="aspect-video bg-gradient-to-br from-indigo-100 to-blue-50 rounded-xl flex items-center justify-center">
+              <div className="aspect-video bg-linear-to-br from-indigo-100 to-blue-50 rounded-xl flex items-center justify-center">
                 <div className="text-center p-8">
                   <div className="text-6xl mb-4">📊</div>
                   <p className="text-gray-600 font-medium">{content.title} Preview</p>

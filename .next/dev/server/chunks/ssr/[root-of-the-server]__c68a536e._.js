@@ -14,17 +14,11 @@ __turbopack_context__.s([
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react.js [app-ssr] (ecmascript)");
-(()=>{
-    const e = new Error("Cannot find module 'lucide-react'");
-    e.code = 'MODULE_NOT_FOUND';
-    throw e;
-})();
 "use client";
 ;
 ;
-;
 function HeaderBar() {
-    const [isProductsOpen, setIsProductsOpen] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(false);
+    //const [isProductsOpen, setIsProductsOpen] = useState(false);
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("header", {
         className: "bg-white border-b border-gray-200",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -37,15 +31,12 @@ function HeaderBar() {
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "flex items-center gap-2",
                             children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center transform rotate-45",
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "w-4 h-4 bg-white rounded-sm transform -rotate-45"
-                                    }, void 0, false, {
-                                        fileName: "[project]/components/HeaderBar.js",
-                                        lineNumber: 16,
-                                        columnNumber: 17
-                                    }, this)
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Image, {
+                                    src: "/globaltech-logo.png",
+                                    alt: "Global Tech",
+                                    width: 40,
+                                    height: 40,
+                                    className: "w-10 h-10 object-contain"
                                 }, void 0, false, {
                                     fileName: "[project]/components/HeaderBar.js",
                                     lineNumber: 15,
@@ -56,7 +47,7 @@ function HeaderBar() {
                                     children: "Global Tech"
                                 }, void 0, false, {
                                     fileName: "[project]/components/HeaderBar.js",
-                                    lineNumber: 18,
+                                    lineNumber: 23,
                                     columnNumber: 15
                                 }, this)
                             ]
@@ -73,80 +64,64 @@ function HeaderBar() {
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("nav", {
                         className: "hidden md:flex items-center space-x-8",
                         children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "relative",
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                    onClick: ()=>setIsProductsOpen(!isProductsOpen),
-                                    className: "flex items-center gap-1 text-gray-700 hover:text-gray-900 font-medium transition-colors",
-                                    children: [
-                                        "Products",
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(ChevronDown, {
-                                            className: "w-4 h-4"
-                                        }, void 0, false, {
-                                            fileName: "[project]/components/HeaderBar.js",
-                                            lineNumber: 30,
-                                            columnNumber: 17
-                                        }, this)
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/components/HeaderBar.js",
-                                    lineNumber: 25,
-                                    columnNumber: 15
-                                }, this)
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                href: "http://omslite.globaltech.com.np/Account/Document",
+                                className: "text-gray-700 hover:text-gray-900 font-medium transition-colors",
+                                children: "DOCS"
                             }, void 0, false, {
                                 fileName: "[project]/components/HeaderBar.js",
-                                lineNumber: 24,
+                                lineNumber: 31,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                href: "#pricing",
+                                href: "http://omslite.globaltech.com.np/Account/Feature",
                                 className: "text-gray-700 hover:text-gray-900 font-medium transition-colors",
-                                children: "Pricing"
+                                children: "FEATURES"
                             }, void 0, false, {
                                 fileName: "[project]/components/HeaderBar.js",
-                                lineNumber: 33,
+                                lineNumber: 38,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                href: "#partners",
+                                href: "http://omslite.globaltech.com.np/Account/Pricing",
                                 className: "text-gray-700 hover:text-gray-900 font-medium transition-colors",
-                                children: "Partners"
+                                children: "PRICING"
                             }, void 0, false, {
                                 fileName: "[project]/components/HeaderBar.js",
-                                lineNumber: 36,
+                                lineNumber: 44,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                href: "#blogs",
+                                href: "http://omslite.globaltech.com.np/Account/Support",
                                 className: "text-gray-700 hover:text-gray-900 font-medium transition-colors",
-                                children: "Blogs"
+                                children: "SUPPORT"
                             }, void 0, false, {
                                 fileName: "[project]/components/HeaderBar.js",
-                                lineNumber: 39,
+                                lineNumber: 50,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                href: "#resources",
+                                href: "#",
                                 className: "text-gray-700 hover:text-gray-900 font-medium transition-colors",
-                                children: "Resources"
+                                children: "BLOGS"
                             }, void 0, false, {
                                 fileName: "[project]/components/HeaderBar.js",
-                                lineNumber: 42,
+                                lineNumber: 56,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                href: "#trial",
+                                href: "#",
                                 className: "text-gray-700 hover:text-gray-900 font-medium transition-colors",
-                                children: "Free Trial"
+                                children: "HELP"
                             }, void 0, false, {
                                 fileName: "[project]/components/HeaderBar.js",
-                                lineNumber: 45,
+                                lineNumber: 62,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/HeaderBar.js",
-                        lineNumber: 23,
+                        lineNumber: 30,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -157,7 +132,7 @@ function HeaderBar() {
                                 children: "Start Free Trial"
                             }, void 0, false, {
                                 fileName: "[project]/components/HeaderBar.js",
-                                lineNumber: 52,
+                                lineNumber: 72,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -165,13 +140,13 @@ function HeaderBar() {
                                 children: "Login"
                             }, void 0, false, {
                                 fileName: "[project]/components/HeaderBar.js",
-                                lineNumber: 55,
+                                lineNumber: 75,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/HeaderBar.js",
-                        lineNumber: 51,
+                        lineNumber: 71,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -190,22 +165,22 @@ function HeaderBar() {
                                     d: "M4 6h16M4 12h16M4 18h16"
                                 }, void 0, false, {
                                     fileName: "[project]/components/HeaderBar.js",
-                                    lineNumber: 64,
+                                    lineNumber: 89,
                                     columnNumber: 17
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/components/HeaderBar.js",
-                                lineNumber: 63,
+                                lineNumber: 83,
                                 columnNumber: 15
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/HeaderBar.js",
-                            lineNumber: 62,
+                            lineNumber: 82,
                             columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/HeaderBar.js",
-                        lineNumber: 61,
+                        lineNumber: 81,
                         columnNumber: 11
                     }, this)
                 ]

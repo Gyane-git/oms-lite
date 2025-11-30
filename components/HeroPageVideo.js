@@ -1,10 +1,10 @@
 "use client";
-import { useState } from 'react';
-import { Play, CheckCircle } from 'lucide-react';
+import { useState } from "react";
+import { Play, CheckCircle } from "lucide-react";
 
 export default function YouTubeVideo() {
   const [isPlaying, setIsPlaying] = useState(false);
-  
+
   // Replace this with your actual YouTube video ID
   const videoId = "dQw4w9WgXcQ";
 
@@ -15,7 +15,9 @@ export default function YouTubeVideo() {
         <div className="flex flex-wrap justify-center gap-6 mb-12">
           <div className="flex items-center gap-2 text-indigo-600">
             <CheckCircle className="w-5 h-5" />
-            <span className="font-medium">Designed by Professional Accountants</span>
+            <span className="font-medium">
+              Designed by Professional Accountants
+            </span>
           </div>
           <div className="flex items-center gap-2 text-indigo-600">
             <CheckCircle className="w-5 h-5" />
@@ -39,12 +41,15 @@ export default function YouTubeVideo() {
           </div>
 
           {/* Video Frame */}
-          <div className="relative bg-gray-900 rounded-b-xl overflow-hidden shadow-2xl" style={{ paddingBottom: '56.25%' }}>
+          <div
+            className="relative bg-gray-900 rounded-b-xl overflow-hidden shadow-2xl"
+            style={{ paddingBottom: "56.25%" }}
+          >
             {!isPlaying ? (
               // Thumbnail with Play Button
               <div className="absolute inset-0 flex items-center justify-center bg-gray-800">
                 <img
-                  src={`https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`}
+                  src="https://img.youtube.com/vi/gRF6DdP85IY/maxresdefault.jpg"
                   alt="Video thumbnail"
                   className="absolute inset-0 w-full h-full object-cover"
                 />
@@ -59,13 +64,14 @@ export default function YouTubeVideo() {
             ) : (
               // YouTube Iframe
               <iframe
-                className="absolute inset-0 w-full h-full"
-                src={`https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0`}
-                title="YouTube video player"
-                frameBorder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              />
+  className="absolute inset-0 w-full h-full"
+  src="https://www.youtube.com/embed/gRF6DdP85IY?autoplay=1&rel=0"
+  title="YouTube video player"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>
+
             )}
           </div>
         </div>
@@ -73,7 +79,8 @@ export default function YouTubeVideo() {
         {/* Optional Description */}
         <div className="text-center mt-8">
           <p className="text-gray-600 text-lg max-w-3xl mx-auto">
-            Watch how our accounting software transforms your business operations with intuitive design and powerful features.
+            Watch how our accounting software transforms your business
+            operations with intuitive design and powerful features.
           </p>
         </div>
       </div>

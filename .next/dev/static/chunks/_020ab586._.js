@@ -194,7 +194,7 @@ function YouTubeVideo() {
                                     className: "w-5 h-5"
                                 }, void 0, false, {
                                     fileName: "[project]/components/HeroPageVideo.js",
-                                    lineNumber: 21,
+                                    lineNumber: 23,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -202,13 +202,13 @@ function YouTubeVideo() {
                                     children: "Built by Tech Experts"
                                 }, void 0, false, {
                                     fileName: "[project]/components/HeroPageVideo.js",
-                                    lineNumber: 22,
+                                    lineNumber: 24,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/HeroPageVideo.js",
-                            lineNumber: 20,
+                            lineNumber: 22,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -218,7 +218,7 @@ function YouTubeVideo() {
                                     className: "w-5 h-5"
                                 }, void 0, false, {
                                     fileName: "[project]/components/HeroPageVideo.js",
-                                    lineNumber: 25,
+                                    lineNumber: 27,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -226,13 +226,13 @@ function YouTubeVideo() {
                                     children: "Certified by the IRD"
                                 }, void 0, false, {
                                     fileName: "[project]/components/HeroPageVideo.js",
-                                    lineNumber: 26,
+                                    lineNumber: 28,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/HeroPageVideo.js",
-                            lineNumber: 24,
+                            lineNumber: 26,
                             columnNumber: 11
                         }, this)
                     ]
@@ -253,50 +253,50 @@ function YouTubeVideo() {
                                         className: "w-3 h-3 rounded-full bg-red-500"
                                     }, void 0, false, {
                                         fileName: "[project]/components/HeroPageVideo.js",
-                                        lineNumber: 35,
+                                        lineNumber: 37,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "w-3 h-3 rounded-full bg-yellow-500"
                                     }, void 0, false, {
                                         fileName: "[project]/components/HeroPageVideo.js",
-                                        lineNumber: 36,
+                                        lineNumber: 38,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "w-3 h-3 rounded-full bg-green-500"
                                     }, void 0, false, {
                                         fileName: "[project]/components/HeroPageVideo.js",
-                                        lineNumber: 37,
+                                        lineNumber: 39,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/HeroPageVideo.js",
-                                lineNumber: 34,
+                                lineNumber: 36,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/HeroPageVideo.js",
-                            lineNumber: 33,
+                            lineNumber: 35,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "relative bg-gray-900 rounded-b-xl overflow-hidden shadow-2xl",
                             style: {
-                                paddingBottom: '56.25%'
+                                paddingBottom: "56.25%"
                             },
                             children: !isPlaying ? // Thumbnail with Play Button
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "absolute inset-0 flex items-center justify-center bg-gray-800",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                        src: `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`,
+                                        src: "https://img.youtube.com/vi/gRF6DdP85IY/maxresdefault.jpg",
                                         alt: "Video thumbnail",
                                         className: "absolute inset-0 w-full h-full object-cover"
                                     }, void 0, false, {
                                         fileName: "[project]/components/HeroPageVideo.js",
-                                        lineNumber: 46,
+                                        lineNumber: 51,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -308,41 +308,41 @@ function YouTubeVideo() {
                                             fill: "white"
                                         }, void 0, false, {
                                             fileName: "[project]/components/HeroPageVideo.js",
-                                            lineNumber: 56,
+                                            lineNumber: 61,
                                             columnNumber: 19
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/components/HeroPageVideo.js",
-                                        lineNumber: 51,
+                                        lineNumber: 56,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/HeroPageVideo.js",
-                                lineNumber: 45,
+                                lineNumber: 50,
                                 columnNumber: 15
                             }, this) : // YouTube Iframe
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("iframe", {
                                 className: "absolute inset-0 w-full h-full",
-                                src: `https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0`,
+                                src: "https://www.youtube.com/embed/gRF6DdP85IY?autoplay=1&rel=0",
                                 title: "YouTube video player",
                                 frameBorder: "0",
                                 allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
                                 allowFullScreen: true
                             }, void 0, false, {
                                 fileName: "[project]/components/HeroPageVideo.js",
-                                lineNumber: 61,
+                                lineNumber: 66,
                                 columnNumber: 15
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/HeroPageVideo.js",
-                            lineNumber: 42,
+                            lineNumber: 44,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/HeroPageVideo.js",
-                    lineNumber: 31,
+                    lineNumber: 33,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -352,12 +352,12 @@ function YouTubeVideo() {
                         children: "Watch how our accounting software transforms your business operations with intuitive design and powerful features."
                     }, void 0, false, {
                         fileName: "[project]/components/HeroPageVideo.js",
-                        lineNumber: 75,
+                        lineNumber: 81,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/components/HeroPageVideo.js",
-                    lineNumber: 74,
+                    lineNumber: 80,
                     columnNumber: 9
                 }, this)
             ]
@@ -388,10 +388,13 @@ __turbopack_context__.s([
     ()=>OurclientSlider
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$swiper$2f$swiper$2d$react$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/swiper/swiper-react.mjs [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$swiper$2f$modules$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__ = __turbopack_context__.i("[project]/node_modules/swiper/modules/index.mjs [app-client] (ecmascript) <locals>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$swiper$2f$modules$2f$autoplay$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Autoplay$3e$__ = __turbopack_context__.i("[project]/node_modules/swiper/modules/autoplay.mjs [app-client] (ecmascript) <export default as Autoplay>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-client] (ecmascript)");
+;
+var _s = __turbopack_context__.k.signature();
 "use client";
 ;
 ;
@@ -399,156 +402,113 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$imag
 ;
 ;
 ;
-const brands = [
-    {
-        id: 1,
-        image: "/global.jpeg",
-        title: "Global Tech Nepal",
-        offer: "",
-        logo: ""
-    },
-    {
-        id: 2,
-        image: "/garg.png",
-        title: "Garg Dental",
-        offer: "",
-        logo: ""
-    },
-    {
-        id: 3,
-        image: "/cg.jpeg",
-        title: "CG Group",
-        offer: "",
-        logo: ""
-    },
-    {
-        id: 4,
-        image: "/amda.jpeg",
-        title: "Amda Nepal",
-        offer: "",
-        logo: ""
-    },
-    {
-        id: 5,
-        image: "/deli.png",
-        title: "Deli Nepal",
-        offer: "",
-        logo: ""
-    }
-];
 function OurclientSlider() {
-    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "max-w-7xl mx-auto py-10 bg-white",
-        children: [
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                className: "text-3xl sm:text-4xl lg:text-5xl font-bold text-center text-gray-900 mb-12",
-                children: "We Have Been Featured On"
-            }, void 0, false, {
-                fileName: "[project]/components/Ourclient-slider.js",
-                lineNumber: 51,
-                columnNumber: 10
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                fileName: "[project]/components/Ourclient-slider.js",
-                lineNumber: 55,
-                columnNumber: 9
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$swiper$2f$swiper$2d$react$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Swiper"], {
-                modules: [
-                    __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$swiper$2f$modules$2f$autoplay$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Autoplay$3e$__["Autoplay"]
-                ],
-                autoplay: {
-                    delay: 2500,
-                    disableOnInteraction: false
-                },
-                loop: true,
-                spaceBetween: 20,
-                slidesPerView: 3,
-                breakpoints: {
-                    320: {
-                        slidesPerView: 1
-                    },
-                    640: {
-                        slidesPerView: 2
-                    },
-                    1024: {
-                        slidesPerView: 3
-                    },
-                    1280: {
-                        slidesPerView: 4
+    _s();
+    const [brands, setBrands] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])([]);
+    // Fetch API data on load
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"])({
+        "OurclientSlider.useEffect": ()=>{
+            const fetchClients = {
+                "OurclientSlider.useEffect.fetchClients": async ()=>{
+                    try {
+                        const res = await fetch("https://globaltechnepal.com/api/clients");
+                        const json = await res.json();
+                        setBrands(json.data || []);
+                    } catch (error) {
+                        console.error("Failed to fetch clients:", error);
                     }
-                },
-                children: brands.map((brand)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$swiper$2f$swiper$2d$react$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SwiperSlide"], {
-                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "rounded-xl overflow-hidden shadow-md hover:shadow-xl  text-black transition bg-gray-100",
-                            children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                    src: brand.image,
-                                    alt: brand.title,
-                                    width: 500,
-                                    height: 400,
-                                    className: "w-full h-64 object-cover"
+                }
+            }["OurclientSlider.useEffect.fetchClients"];
+            fetchClients();
+        }
+    }["OurclientSlider.useEffect"], []);
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        className: "bg-linear-to-b from-indigo-50 to-white py-16 px-4 sm:px-6 lg:px-8",
+        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+            className: "max-w-7xl mx-auto py-10 bg-linear-to-b from-indigo-50 to-white",
+            children: [
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                    className: "text-3xl sm:text-4xl lg:text-5xl font-bold text-center text-gray-900 mb-12",
+                    children: "We Have Been Featured On"
+                }, void 0, false, {
+                    fileName: "[project]/components/Ourclient-slider.js",
+                    lineNumber: 31,
+                    columnNumber: 7
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$swiper$2f$swiper$2d$react$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Swiper"], {
+                    modules: [
+                        __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$swiper$2f$modules$2f$autoplay$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Autoplay$3e$__["Autoplay"]
+                    ],
+                    autoplay: {
+                        delay: 2500,
+                        disableOnInteraction: false
+                    },
+                    loop: true,
+                    spaceBetween: 20,
+                    slidesPerView: 3,
+                    breakpoints: {
+                        320: {
+                            slidesPerView: 1
+                        },
+                        640: {
+                            slidesPerView: 2
+                        },
+                        1024: {
+                            slidesPerView: 3
+                        },
+                        1280: {
+                            slidesPerView: 4
+                        }
+                    },
+                    children: brands.map((brand)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$swiper$2f$swiper$2d$react$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SwiperSlide"], {
+                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "rounded-xl overflow-hidden shadow-md hover:shadow-xl transition bg-white border",
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "w-full h-40 flex items-center justify-center p-4",
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                        src: brand.image,
+                                        alt: brand.title,
+                                        width: 300,
+                                        height: 200,
+                                        className: "object-contain"
+                                    }, void 0, false, {
+                                        fileName: "[project]/components/Ourclient-slider.js",
+                                        lineNumber: 52,
+                                        columnNumber: 17
+                                    }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/components/Ourclient-slider.js",
-                                    lineNumber: 73,
-                                    columnNumber: 15
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "p-4 text-center",
-                                    children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                            className: "text-sm text-gray-500",
-                                            children: brand.logo
-                                        }, void 0, false, {
-                                            fileName: "[project]/components/Ourclient-slider.js",
-                                            lineNumber: 81,
-                                            columnNumber: 17
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                            className: "text-lg font-semibold",
-                                            children: brand.title
-                                        }, void 0, false, {
-                                            fileName: "[project]/components/Ourclient-slider.js",
-                                            lineNumber: 82,
-                                            columnNumber: 17
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                            className: "text-red-500 font-bold",
-                                            children: brand.offer
-                                        }, void 0, false, {
-                                            fileName: "[project]/components/Ourclient-slider.js",
-                                            lineNumber: 83,
-                                            columnNumber: 17
-                                        }, this)
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/components/Ourclient-slider.js",
-                                    lineNumber: 80,
+                                    lineNumber: 51,
                                     columnNumber: 15
                                 }, this)
-                            ]
-                        }, void 0, true, {
+                            }, void 0, false, {
+                                fileName: "[project]/components/Ourclient-slider.js",
+                                lineNumber: 50,
+                                columnNumber: 13
+                            }, this)
+                        }, brand.id, false, {
                             fileName: "[project]/components/Ourclient-slider.js",
-                            lineNumber: 72,
-                            columnNumber: 13
-                        }, this)
-                    }, brand.id, false, {
-                        fileName: "[project]/components/Ourclient-slider.js",
-                        lineNumber: 71,
-                        columnNumber: 11
-                    }, this))
-            }, void 0, false, {
-                fileName: "[project]/components/Ourclient-slider.js",
-                lineNumber: 57,
-                columnNumber: 7
-            }, this)
-        ]
-    }, void 0, true, {
+                            lineNumber: 49,
+                            columnNumber: 11
+                        }, this))
+                }, void 0, false, {
+                    fileName: "[project]/components/Ourclient-slider.js",
+                    lineNumber: 35,
+                    columnNumber: 7
+                }, this)
+            ]
+        }, void 0, true, {
+            fileName: "[project]/components/Ourclient-slider.js",
+            lineNumber: 30,
+            columnNumber: 5
+        }, this)
+    }, void 0, false, {
         fileName: "[project]/components/Ourclient-slider.js",
-        lineNumber: 49,
+        lineNumber: 29,
         columnNumber: 5
     }, this);
 }
+_s(OurclientSlider, "wdOz5+4LczRmGT1CBPATNYyq2X0=");
 _c = OurclientSlider;
 var _c;
 __turbopack_context__.k.register(_c, "OurclientSlider");
@@ -580,24 +540,20 @@ function TabBar() {
             label: 'Accounting'
         },
         {
-            id: 'inventory',
-            label: 'Inventory'
+            id: 'softwaredevelopment',
+            label: 'Software Development'
         },
         {
-            id: 'invoicing',
-            label: 'Invoicing'
+            id: 'cloudcomputing',
+            label: 'Cloud Computing'
         },
         {
-            id: 'pos',
-            label: 'Point of Sales'
+            id: 'websolutions',
+            label: 'Web & App Solutions'
         },
         {
-            id: 'documents',
-            label: 'Documents'
-        },
-        {
-            id: 'reporting',
-            label: 'Reporting'
+            id: 'graphicdesign',
+            label: 'Graphic Design & Animation'
         }
     ];
     const tabContent = {
@@ -613,8 +569,8 @@ function TabBar() {
             ],
             image: '/accounting-preview.png'
         },
-        inventory: {
-            title: 'Inventory',
+        softwaredevelopment: {
+            title: 'Software Development',
             description: 'Manage your inventory with real-time tracking and automated stock updates.',
             features: [
                 'Real-time Stock Tracking',
@@ -625,8 +581,8 @@ function TabBar() {
             ],
             image: '/inventory-preview.png'
         },
-        invoicing: {
-            title: 'Invoicing',
+        cloudcomputing: {
+            title: 'Cloud Computing',
             description: 'Create professional invoices and get paid faster with automated reminders.',
             features: [
                 'Customizable Invoice Templates',
@@ -637,8 +593,8 @@ function TabBar() {
             ],
             image: '/invoicing-preview.png'
         },
-        pos: {
-            title: 'Point of Sales',
+        websolutions: {
+            title: 'Web & App Solutions',
             description: 'Streamline your retail operations with our integrated POS system.',
             features: [
                 'Quick Sales Processing',
@@ -649,8 +605,8 @@ function TabBar() {
             ],
             image: '/pos-preview.png'
         },
-        documents: {
-            title: 'Documents',
+        graphicdesign: {
+            title: 'Graphic Design & Animation',
             description: 'Store and manage all your business documents in one secure place.',
             features: [
                 'Cloud Storage Integration',
@@ -660,23 +616,11 @@ function TabBar() {
                 'Automated Backup'
             ],
             image: '/documents-preview.png'
-        },
-        reporting: {
-            title: 'Reporting',
-            description: 'Generate comprehensive reports and gain insights into your business.',
-            features: [
-                'Financial Statements',
-                'Custom Report Builder',
-                'Real-time Analytics',
-                'Export to Multiple Formats',
-                'Scheduled Report Delivery'
-            ],
-            image: '/reporting-preview.png'
         }
     };
     const content = tabContent[activeTab];
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-        className: "bg-gradient-to-b from-indigo-50 to-white py-16 px-4 sm:px-6 lg:px-8",
+        className: "bg-linear-to-b from-indigo-50 to-white py-16 px-4 sm:px-6 lg:px-8",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "max-w-7xl mx-auto",
             children: [
@@ -690,17 +634,17 @@ function TabBar() {
                             children: "diverse Businesses!"
                         }, void 0, false, {
                             fileName: "[project]/components/OurServicesTab.js",
-                            lineNumber: 100,
+                            lineNumber: 88,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/OurServicesTab.js",
-                    lineNumber: 98,
+                    lineNumber: 86,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "bg-white rounded-full shadow-lg p-2 mb-16 max-w-5xl mx-auto",
+                    className: "bg-white rounded-full shadow-lg p-2 mb-16 max-w-6xl mx-auto",
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "flex flex-wrap justify-center gap-2",
                         children: tabs.map((tab)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -709,17 +653,17 @@ function TabBar() {
                                 children: tab.label
                             }, tab.id, false, {
                                 fileName: "[project]/components/OurServicesTab.js",
-                                lineNumber: 107,
+                                lineNumber: 95,
                                 columnNumber: 15
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/components/OurServicesTab.js",
-                        lineNumber: 105,
+                        lineNumber: 93,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/components/OurServicesTab.js",
-                    lineNumber: 104,
+                    lineNumber: 92,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -730,7 +674,7 @@ function TabBar() {
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "bg-white rounded-2xl shadow-xl p-6",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "aspect-video bg-gradient-to-br from-indigo-100 to-blue-50 rounded-xl flex items-center justify-center",
+                                    className: "aspect-video bg-linear-to-br from-indigo-100 to-blue-50 rounded-xl flex items-center justify-center",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "text-center p-8",
                                         children: [
@@ -739,7 +683,7 @@ function TabBar() {
                                                 children: "📊"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/OurServicesTab.js",
-                                                lineNumber: 129,
+                                                lineNumber: 117,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -750,28 +694,28 @@ function TabBar() {
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/components/OurServicesTab.js",
-                                                lineNumber: 130,
+                                                lineNumber: 118,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/OurServicesTab.js",
-                                        lineNumber: 128,
+                                        lineNumber: 116,
                                         columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/components/OurServicesTab.js",
-                                    lineNumber: 127,
+                                    lineNumber: 115,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/components/OurServicesTab.js",
-                                lineNumber: 126,
+                                lineNumber: 114,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/OurServicesTab.js",
-                            lineNumber: 125,
+                            lineNumber: 113,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -782,7 +726,7 @@ function TabBar() {
                                     children: content.title
                                 }, void 0, false, {
                                     fileName: "[project]/components/OurServicesTab.js",
-                                    lineNumber: 138,
+                                    lineNumber: 126,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -790,7 +734,7 @@ function TabBar() {
                                     children: content.description
                                 }, void 0, false, {
                                     fileName: "[project]/components/OurServicesTab.js",
-                                    lineNumber: 141,
+                                    lineNumber: 129,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -802,7 +746,7 @@ function TabBar() {
                                                     className: "w-6 h-6 text-indigo-600 flex-shrink-0 mt-0.5"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/OurServicesTab.js",
-                                                    lineNumber: 149,
+                                                    lineNumber: 137,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -810,18 +754,18 @@ function TabBar() {
                                                     children: feature
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/OurServicesTab.js",
-                                                    lineNumber: 150,
+                                                    lineNumber: 138,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, index, true, {
                                             fileName: "[project]/components/OurServicesTab.js",
-                                            lineNumber: 148,
+                                            lineNumber: 136,
                                             columnNumber: 17
                                         }, this))
                                 }, void 0, false, {
                                     fileName: "[project]/components/OurServicesTab.js",
-                                    lineNumber: 146,
+                                    lineNumber: 134,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -832,7 +776,7 @@ function TabBar() {
                                             children: "Explore More"
                                         }, void 0, false, {
                                             fileName: "[project]/components/OurServicesTab.js",
-                                            lineNumber: 157,
+                                            lineNumber: 145,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -840,36 +784,36 @@ function TabBar() {
                                             children: "Watch Video"
                                         }, void 0, false, {
                                             fileName: "[project]/components/OurServicesTab.js",
-                                            lineNumber: 160,
+                                            lineNumber: 148,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/OurServicesTab.js",
-                                    lineNumber: 156,
+                                    lineNumber: 144,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/OurServicesTab.js",
-                            lineNumber: 137,
+                            lineNumber: 125,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/OurServicesTab.js",
-                    lineNumber: 123,
+                    lineNumber: 111,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/components/OurServicesTab.js",
-            lineNumber: 96,
+            lineNumber: 84,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/components/OurServicesTab.js",
-        lineNumber: 95,
+        lineNumber: 83,
         columnNumber: 5
     }, this);
 }
@@ -1196,41 +1140,28 @@ function FAQ() {
     _s();
     const [openIndex, setOpenIndex] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(null);
     const [showAll, setShowAll] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false);
-    const faqData = [
-        {
-            question: 'Can I access my accountings using a mobile device?',
-            answer: 'Yes, Global Tech is fully responsive and optimized for mobile devices. You can access your accounting data anytime, anywhere through our mobile-friendly web application. We also offer native mobile apps for iOS and Android for the best mobile experience.'
-        },
-        {
-            question: 'Can I give access to other people in my company?',
-            answer: 'Absolutely! Global Tech supports multi-user access with role-based permissions. You can invite team members, assign specific roles (Admin, Accountant, Staff, etc.), and control what features and data each user can access. This ensures secure collaboration across your organization.'
-        },
-        {
-            question: 'How much time does it take to get the Global Tech set up?',
-            answer: 'Getting started with Global Tech is quick and easy. Basic setup can be completed in as little as 15-30 minutes. This includes creating your account, setting up your company profile, and configuring basic settings. For more complex setups with data migration, our team can have you up and running within 1-2 business days.'
-        },
-        {
-            question: 'What types of training do you offer during implementation?',
-            answer: 'We provide comprehensive training to ensure your team is confident using Global Tech. This includes: live onboarding sessions, video tutorials, detailed documentation, one-on-one training calls, and ongoing webinars. Our support team is always available to answer questions and provide guidance.'
-        },
-        {
-            question: 'What kind of support do you provide after implementation?',
-            answer: 'We offer continuous support through multiple channels including 24/7 email support, live chat during business hours, phone support for urgent issues, a comprehensive knowledge base, regular software updates, and a dedicated account manager for enterprise customers. Your success is our priority!'
-        },
-        {
-            question: 'Is my data secure with Global Tech?',
-            answer: 'Security is our top priority. We use bank-level encryption (256-bit SSL), regular data backups, secure cloud infrastructure, compliance with international data protection standards, and two-factor authentication. Your data is stored in secure data centers with 99.9% uptime guarantee.'
-        },
-        {
-            question: 'Can I import data from my existing accounting software?',
-            answer: 'Yes! Global Tech supports data import from various accounting software including QuickBooks, Xero, Tally, and Excel spreadsheets. Our migration team will assist you in transferring your data smoothly to ensure no information is lost during the transition.'
-        },
-        {
-            question: 'What payment methods do you accept?',
-            answer: 'We accept various payment methods including credit/debit cards (Visa, Mastercard, American Express), bank transfers, PayPal, and for enterprise customers, we offer invoicing options. All payments are processed securely through encrypted payment gateways.'
+    const [faqs, setFaqs] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])([]);
+    const [loading, setLoading] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(true);
+    // Fetch FAQs from API
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"])({
+        "FAQ.useEffect": ()=>{
+            const fetchFAQs = {
+                "FAQ.useEffect.fetchFAQs": async ()=>{
+                    try {
+                        const res = await fetch("https://globaltechnepal.com/api/faqs");
+                        const data = await res.json();
+                        setFaqs(data.data); // Set API FAQs
+                    } catch (error) {
+                        console.error("Error fetching FAQs:", error);
+                    } finally{
+                        setLoading(false);
+                    }
+                }
+            }["FAQ.useEffect.fetchFAQs"];
+            fetchFAQs();
         }
-    ];
-    const displayedFAQs = showAll ? faqData : faqData.slice(0, 5);
+    }["FAQ.useEffect"], []);
+    const displayedFAQs = showAll ? faqs : faqs.slice(0, 5);
     const toggleFAQ = (index)=>{
         setOpenIndex(openIndex === index ? null : index);
     };
@@ -1248,7 +1179,7 @@ function FAQ() {
                                 children: "Frequently Asked Questions"
                             }, void 0, false, {
                                 fileName: "[project]/components/FAQ.js",
-                                lineNumber: 55,
+                                lineNumber: 39,
                                 columnNumber: 11
                             }, this),
                             ' ',
@@ -1257,16 +1188,24 @@ function FAQ() {
                                 children: "About Global Tech"
                             }, void 0, false, {
                                 fileName: "[project]/components/FAQ.js",
-                                lineNumber: 56,
+                                lineNumber: 40,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/FAQ.js",
-                        lineNumber: 54,
+                        lineNumber: 38,
                         columnNumber: 9
                     }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    loading && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                        className: "jsx-8c22482bbe3d1e19" + " " + "text-center text-gray-500",
+                        children: "Loading FAQs..."
+                    }, void 0, false, {
+                        fileName: "[project]/components/FAQ.js",
+                        lineNumber: 45,
+                        columnNumber: 11
+                    }, this),
+                    !loading && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "jsx-8c22482bbe3d1e19" + " " + "space-y-4",
                         children: displayedFAQs.map((faq, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "jsx-8c22482bbe3d1e19" + " " + "border-b border-gray-200 pb-4",
@@ -1277,11 +1216,11 @@ function FAQ() {
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                 className: "jsx-8c22482bbe3d1e19" + " " + "text-lg font-semibold text-gray-900 pr-8",
-                                                children: faq.question
+                                                children: faq.title
                                             }, void 0, false, {
                                                 fileName: "[project]/components/FAQ.js",
-                                                lineNumber: 70,
-                                                columnNumber: 17
+                                                lineNumber: 57,
+                                                columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                 className: "jsx-8c22482bbe3d1e19" + " " + "flex-shrink-0",
@@ -1291,58 +1230,58 @@ function FAQ() {
                                                         className: "w-5 h-5 text-white"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/FAQ.js",
-                                                        lineNumber: 76,
-                                                        columnNumber: 23
+                                                        lineNumber: 64,
+                                                        columnNumber: 25
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/FAQ.js",
-                                                    lineNumber: 75,
-                                                    columnNumber: 21
+                                                    lineNumber: 63,
+                                                    columnNumber: 23
                                                 }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                     className: "jsx-8c22482bbe3d1e19" + " " + "w-8 h-8 bg-indigo-600 rounded-full flex items-center justify-center",
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$plus$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Plus$3e$__["Plus"], {
                                                         className: "w-5 h-5 text-white"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/FAQ.js",
-                                                        lineNumber: 80,
-                                                        columnNumber: 23
+                                                        lineNumber: 68,
+                                                        columnNumber: 25
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/FAQ.js",
-                                                    lineNumber: 79,
-                                                    columnNumber: 21
+                                                    lineNumber: 67,
+                                                    columnNumber: 23
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/components/FAQ.js",
-                                                lineNumber: 73,
-                                                columnNumber: 17
+                                                lineNumber: 61,
+                                                columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/FAQ.js",
-                                        lineNumber: 66,
-                                        columnNumber: 15
+                                        lineNumber: 53,
+                                        columnNumber: 17
                                     }, this),
                                     openIndex === index && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "jsx-8c22482bbe3d1e19" + " " + "pb-4 pr-12 text-gray-600 leading-relaxed animate-fadeIn",
-                                        children: faq.answer
+                                        children: faq.description
                                     }, void 0, false, {
                                         fileName: "[project]/components/FAQ.js",
-                                        lineNumber: 87,
-                                        columnNumber: 17
+                                        lineNumber: 75,
+                                        columnNumber: 19
                                     }, this)
                                 ]
-                            }, index, true, {
+                            }, faq.id, true, {
                                 fileName: "[project]/components/FAQ.js",
-                                lineNumber: 62,
-                                columnNumber: 13
+                                lineNumber: 52,
+                                columnNumber: 15
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/components/FAQ.js",
-                        lineNumber: 60,
-                        columnNumber: 9
+                        lineNumber: 50,
+                        columnNumber: 11
                     }, this),
-                    !showAll && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    !showAll && faqs.length > 5 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "jsx-8c22482bbe3d1e19" + " " + "flex justify-center mt-12",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                             onClick: ()=>setShowAll(true),
@@ -1350,18 +1289,18 @@ function FAQ() {
                             children: "Show More >>"
                         }, void 0, false, {
                             fileName: "[project]/components/FAQ.js",
-                            lineNumber: 98,
+                            lineNumber: 87,
                             columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/FAQ.js",
-                        lineNumber: 97,
+                        lineNumber: 86,
                         columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/FAQ.js",
-                lineNumber: 52,
+                lineNumber: 36,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$styled$2d$jsx$2f$style$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -1371,11 +1310,11 @@ function FAQ() {
         ]
     }, void 0, true, {
         fileName: "[project]/components/FAQ.js",
-        lineNumber: 51,
+        lineNumber: 35,
         columnNumber: 5
     }, this);
 }
-_s(FAQ, "ySpixGC9iXsU6Dw8ag7naQa/wSQ=");
+_s(FAQ, "bYM0bBclA6M4s3qaa2yDz3tGZhU=");
 _c = FAQ;
 var _c;
 __turbopack_context__.k.register(_c, "FAQ");

@@ -1,3 +1,129 @@
-[00:00:00.681] Server  LOG      ✓ Ready in 509ms
-[00:00:05.423] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:56.946] Browser LOG     Email submitted: kjhytretyhjkuljhg@JHGFREFGHJM,MNHG
+[00:00:02.131] Server  LOG      ✓ Ready in 1967ms
+[00:00:09.820] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:07.674] Server  LOG      ✓ Compiled in 33ms
+[00:12:07.856] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[00:14:14.861] Server  LOG      ✓ Compiled in 36ms
+[00:17:26.183] Server  LOG      ✓ Compiled in 36ms
+[00:17:39.770] Server  LOG      ✓ Compiled in 16ms
+[00:19:30.637] Server  LOG      ✓ Compiled in 27ms
+[00:20:10.556] Server  LOG      ✓ Compiled in 14ms
+[00:22:30.407] Server  LOG      ✓ Compiled in 24ms
+[00:42:59.009] Server  LOG      ✓ Compiled in 30ms
+[00:49:20.055] Server  LOG      ✓ Compiled in 21ms
+[00:50:47.030] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:50:47.860] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[00:51:36.583] Server  LOG      ✓ Compiled in 33ms
+[00:51:57.592] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:51:57.722] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[00:52:14.382] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:52:14.512] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[00:53:39.632] Server  LOG      ✓ Compiled in 26ms
+[00:54:03.382] Server  LOG      ✓ Compiled in 18ms
+[00:54:46.703] Server  LOG      ✓ Compiled in 15ms
+[00:55:03.097] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:55:03.227] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[00:56:55.541] Server  LOG      ✓ Compiled in 47ms
+[00:57:05.459] Server  LOG      ✓ Compiled in 18ms
+[00:58:14.518] Server  LOG      ✓ Compiled in 33ms
+[00:58:14.858] Browser ERROR   uncaughtError: TypeError: Failed to construct 'Image': Please use the 'new' operator, this DOM object constructor cannot be called as a function.
+[00:58:21.622] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:58:21.681] Server  LOG      ✓ Compiled in 11ms
+[00:58:21.707] Server  ERROR    ⨯ ReferenceError: Image is not defined
+[00:58:21.801] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:58:22.858] Browser ERROR   uncaughtError: TypeError: Failed to construct 'Image': Please use the 'new' operator, this DOM object constructor cannot be called as a function.
+[00:58:28.766] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:58:28.807] Server  LOG      ✓ Compiled in 47ms
+[00:58:28.841] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:58:28.924] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:58:29.123] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/globaltech-logo.png" "received" null
+[00:58:29.858] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:00:09.696] Server  LOG      ✓ Compiled in 27ms
+[01:01:05.503] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:01:05.615] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:01:42.194] Server  LOG      ✓ Compiled in 25ms
+[01:01:55.846] Server  LOG      ✓ Compiled in 23ms
+[01:02:18.524] Server  LOG      ✓ Compiled in 22ms
+[01:02:41.508] Server  LOG      ✓ Compiled in 30ms
+[01:03:51.588] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:03:51.720] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:03:56.349] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:03:56.479] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:25:36.488] Server  LOG      ✓ Compiled in 31ms
+[01:26:18.892] Server  LOG      ✓ Compiled in 22ms
+[01:27:44.374] Server  LOG      ✓ Compiled in 27ms
+[01:28:01.026] Server  LOG      ✓ Compiled in 20ms
+[01:28:08.763] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:28:08.895] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:28:29.136] Server  LOG      ✓ Compiled in 21ms
+[01:29:15.663] Server  LOG      ✓ Compiled in 16ms
+[01:29:27.324] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'title')
+[01:31:32.421] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:31:32.494] Server  LOG      ✓ Compiled in 30ms
+[01:31:32.588] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:31:32.858] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:31:55.746] Server  LOG      ✓ Compiled in 18ms
+[01:32:24.391] Server  LOG      ✓ Compiled in 19ms
+[01:32:42.532] Server  LOG      ✓ Compiled in 17ms
+[01:32:54.383] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:32:54.497] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:32:57.398] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'title')
+[01:33:01.089] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:33:01.202] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:33:09.601] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:33:09.714] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:33:13.480] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'title')
+[01:34:28.700] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:34:28.814] Browser WARN    Image with src "/globaltech-logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:34:38.818] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:34:38.933] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:35:14.485] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:35:14.615] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:35:19.484] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:35:19.614] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:35:26.687] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:35:26.817] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:35:36.157] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:35:36.295] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:36:25.320] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'title')
+[01:38:19.942] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:38:19.962] Server  LOG      ✓ Compiled in 36ms
+[01:38:20.144] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:38:20.858] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:38:48.146] Server  LOG      ✓ Compiled in 14ms
+[01:45:22.752] Server  LOG      ✓ Compiled in 70ms
+[01:46:30.597] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:46:30.712] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:48:57.182] Server  LOG      ✓ Compiled in 37ms
+[01:49:07.511] Server  LOG      ✓ Compiled in 12ms
+[01:49:19.533] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:49:19.662] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:50:04.451] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:50:04.580] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:50:11.820] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:50:11.950] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:03:48.492] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:03:48.610] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:04:45.797] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:04:45.906] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:04:48.409] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:06:28.245] Server  LOG      ✓ Compiled in 25ms
+[02:07:22.080] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:07:22.190] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:07:24.691] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:14:27.582] Browser LOG     Demo clicked
+[02:14:41.161] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:14:41.290] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:14:46.182] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:14:46.314] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:14:50.845] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:14:50.977] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:14:58.219] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:14:58.349] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:15:15.348] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:15:15.476] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:15:37.417] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:15:37.546] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:17:56.215] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:17:56.327] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:17:58.830] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
