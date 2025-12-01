@@ -24,7 +24,7 @@ export default function TabBar() {
         'Sales and Purchase Cycle Management',
         'Payment Receipts'
       ],
-      image: '/accounting-preview.png'
+      image: '/websolutions.jpg'
     },
     softwaredevelopment: {
       title: 'Software Development',
@@ -60,7 +60,7 @@ export default function TabBar() {
         'Multiple Payment Methods',
         'Sales Analytics Dashboard'
       ],
-      image: '/pos-preview.png'
+      image: '/websolutions.jpg'
     },
     graphicdesign: {
       title: 'Graphic Design & Animation',
