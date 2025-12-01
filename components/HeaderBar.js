@@ -16,8 +16,8 @@ export default function HeaderBar() {
               <Image
                 src="/globaltech-logo.png" // 👉 replace with your real image path
                 alt="Global Tech"
-                width={40}
-                height={40}
+                width={45}
+                height={45}
                 className="w-35 h-35 object-contain"
               />
 

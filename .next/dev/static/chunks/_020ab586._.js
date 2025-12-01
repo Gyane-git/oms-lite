@@ -7,14 +7,22 @@ __turbopack_context__.s([
     ()=>FreeTrials
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$styled$2d$jsx$2f$style$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/styled-jsx/style.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
 ;
 var _s = __turbopack_context__.k.signature();
 "use client";
 ;
+;
 function FreeTrials() {
     _s();
     const [email, setEmail] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])('');
+    const [isVisible, setIsVisible] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false);
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"])({
+        "FreeTrials.useEffect": ()=>{
+            setIsVisible(true);
+        }
+    }["FreeTrials.useEffect"], []);
     const handleStartTrial = ()=>{
         if (email) {
             console.log('Email submitted:', email);
@@ -22,111 +30,425 @@ function FreeTrials() {
         }
     };
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-        className: "bg-linear-to-b from-white to-indigo-50 py-20 px-4 sm:px-6 lg:px-8",
-        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "max-w-5xl mx-auto text-center",
-            children: [
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                    className: "text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-6",
-                    children: [
-                        "Is Your ",
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                            className: "text-indigo-600",
-                            children: "Accounting"
-                        }, void 0, false, {
-                            fileName: "[project]/components/Demo-FreeTrail.js",
-                            lineNumber: 19,
-                            columnNumber: 19
-                        }, this),
-                        " Still",
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                            fileName: "[project]/components/Demo-FreeTrail.js",
-                            lineNumber: 20,
-                            columnNumber: 11
-                        }, this),
-                        "Stuck in the Past?"
-                    ]
-                }, void 0, true, {
-                    fileName: "[project]/components/Demo-FreeTrail.js",
-                    lineNumber: 18,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                    className: "text-lg sm:text-xl text-gray-600 mb-12 max-w-3xl mx-auto",
-                    children: "Experience the Most Efficient Way to Manage Your Accounting in the Cloud."
-                }, void 0, false, {
-                    fileName: "[project]/components/Demo-FreeTrail.js",
-                    lineNumber: 25,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "bg-white rounded-2xl shadow-lg p-4 sm:p-6 max-w-4xl mx-auto",
+        className: "jsx-c278e179e7ab6d09" + " " + "relative py-16 sm:py-20 lg:py-24 px-4 sm:px-6 lg:px-8 overflow-hidden min-h-screen flex items-center",
+        children: [
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                style: {
+                    backgroundImage: 'url("/gg.jpg")',
+                    backgroundColor: '#0a4d4d',
+                    transform: isVisible ? 'scale(1)' : 'scale(1.1)'
+                },
+                className: "jsx-c278e179e7ab6d09" + " " + "absolute inset-0 bg-cover bg-center bg-no-repeat transition-transform duration-1000 ease-out"
+            }, void 0, false, {
+                fileName: "[project]/components/Demo-FreeTrail.js",
+                lineNumber: 22,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "jsx-c278e179e7ab6d09" + " " + `absolute inset-0 bg-gradient-to-br from-teal-900/40 to-teal-800/30 transition-opacity duration-1000 ${isVisible ? 'opacity-100' : 'opacity-0'}`
+            }, void 0, false, {
+                fileName: "[project]/components/Demo-FreeTrail.js",
+                lineNumber: 32,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "jsx-c278e179e7ab6d09" + " " + "absolute inset-0 overflow-hidden pointer-events-none",
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        style: {
+                            top: '20%',
+                            left: '10%'
+                        },
+                        className: "jsx-c278e179e7ab6d09" + " " + "absolute w-2 h-2 bg-lime-400/30 rounded-full animate-float-slow"
+                    }, void 0, false, {
+                        fileName: "[project]/components/Demo-FreeTrail.js",
+                        lineNumber: 36,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        style: {
+                            top: '60%',
+                            left: '80%'
+                        },
+                        className: "jsx-c278e179e7ab6d09" + " " + "absolute w-3 h-3 bg-teal-300/20 rounded-full animate-float-medium"
+                    }, void 0, false, {
+                        fileName: "[project]/components/Demo-FreeTrail.js",
+                        lineNumber: 37,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        style: {
+                            top: '40%',
+                            left: '90%'
+                        },
+                        className: "jsx-c278e179e7ab6d09" + " " + "absolute w-2 h-2 bg-lime-300/40 rounded-full animate-float-fast"
+                    }, void 0, false, {
+                        fileName: "[project]/components/Demo-FreeTrail.js",
+                        lineNumber: 38,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        style: {
+                            top: '80%',
+                            left: '20%'
+                        },
+                        className: "jsx-c278e179e7ab6d09" + " " + "absolute w-4 h-4 bg-teal-400/10 rounded-full animate-float-slow"
+                    }, void 0, false, {
+                        fileName: "[project]/components/Demo-FreeTrail.js",
+                        lineNumber: 39,
+                        columnNumber: 9
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "[project]/components/Demo-FreeTrail.js",
+                lineNumber: 35,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$styled$2d$jsx$2f$style$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                id: "c278e179e7ab6d09",
+                children: "@keyframes float-slow{0%,to{transform:translateY(0)translate(0)}50%{transform:translateY(-30px)translate(20px)}}@keyframes float-medium{0%,to{transform:translateY(0)translate(0)}50%{transform:translateY(-40px)translate(-15px)}}@keyframes float-fast{0%,to{transform:translateY(0)translate(0)}50%{transform:translateY(-50px)translate(25px)}}@keyframes slide-up{0%{opacity:0;transform:translateY(30px)}to{opacity:1;transform:translateY(0)}}@keyframes slide-right{0%{opacity:0;transform:translate(-30px)}to{opacity:1;transform:translate(0)}}@keyframes fade-in{0%{opacity:0}to{opacity:1}}@keyframes scale-in{0%{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}@keyframes bounce-gentle{0%,to{transform:translateY(0)}50%{transform:translateY(-10px)}}.animate-float-slow.jsx-c278e179e7ab6d09{animation:8s ease-in-out infinite float-slow}.animate-float-medium.jsx-c278e179e7ab6d09{animation:6s ease-in-out infinite float-medium}.animate-float-fast.jsx-c278e179e7ab6d09{animation:4s ease-in-out infinite float-fast}.animate-slide-up.jsx-c278e179e7ab6d09{animation:.8s ease-out forwards slide-up}.animate-slide-right.jsx-c278e179e7ab6d09{animation:.8s ease-out forwards slide-right}.animate-fade-in.jsx-c278e179e7ab6d09{animation:1s ease-out forwards fade-in}.animate-scale-in.jsx-c278e179e7ab6d09{animation:.6s ease-out forwards scale-in}.animate-bounce-gentle.jsx-c278e179e7ab6d09{animation:2s ease-in-out infinite bounce-gentle}.delay-100.jsx-c278e179e7ab6d09{animation-delay:.1s}.delay-200.jsx-c278e179e7ab6d09{animation-delay:.2s}.delay-300.jsx-c278e179e7ab6d09{animation-delay:.3s}.delay-400.jsx-c278e179e7ab6d09{animation-delay:.4s}.delay-500.jsx-c278e179e7ab6d09{animation-delay:.5s}.delay-600.jsx-c278e179e7ab6d09{animation-delay:.6s}"
+            }, void 0, false, void 0, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "jsx-c278e179e7ab6d09" + " " + "relative z-10 max-w-7xl mx-auto w-full",
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "jsx-c278e179e7ab6d09" + " " + "grid lg:grid-cols-2 gap-8 lg:gap-16 items-center",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "flex flex-col sm:flex-row gap-4 items-center justify-center",
+                            className: "jsx-c278e179e7ab6d09" + " " + "space-y-8",
                             children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
-                                    type: "email",
-                                    value: email,
-                                    onChange: (e)=>setEmail(e.target.value),
-                                    placeholder: "Enter your email",
-                                    className: "flex-1 w-full sm:w-auto px-6 py-4 text-gray-700 placeholder-gray-400 border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition-all"
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "jsx-c278e179e7ab6d09" + " " + `${isVisible ? 'animate-slide-up opacity-0' : 'opacity-0'}`,
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                                        className: "jsx-c278e179e7ab6d09" + " " + "text-4xl sm:text-5xl lg:text-7xl xl:text-7xl font-bold text-white leading-tight",
+                                        children: [
+                                            "Transform Your ",
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                className: "jsx-c278e179e7ab6d09" + " " + "text-lime-400 inline-block hover:scale-110 transition-transform duration-300",
+                                                children: "Accounting"
+                                            }, void 0, false, {
+                                                fileName: "[project]/components/Demo-FreeTrail.js",
+                                                lineNumber: 98,
+                                                columnNumber: 32
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {
+                                                className: "jsx-c278e179e7ab6d09"
+                                            }, void 0, false, {
+                                                fileName: "[project]/components/Demo-FreeTrail.js",
+                                                lineNumber: 99,
+                                                columnNumber: 17
+                                            }, this),
+                                            "Into the Cloud Era"
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/components/Demo-FreeTrail.js",
+                                        lineNumber: 97,
+                                        columnNumber: 15
+                                    }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/components/Demo-FreeTrail.js",
-                                    lineNumber: 33,
+                                    lineNumber: 96,
                                     columnNumber: 13
                                 }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                    onClick: handleStartTrial,
-                                    className: "w-full sm:w-auto px-8 py-4 bg-indigo-600 text-white font-semibold rounded-xl hover:bg-indigo-700 transition-colors shadow-md hover:shadow-lg",
-                                    children: "Start Free Trial"
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                    className: "jsx-c278e179e7ab6d09" + " " + `text-lg sm:text-xl lg:text-2xl text-gray-50 leading-relaxed max-w-2xl ${isVisible ? 'animate-slide-up opacity-0 delay-200' : 'opacity-0'}`,
+                                    children: "Join thousands of businesses managing their finances smarter, faster, and more securely with our cloud-based accounting platform."
                                 }, void 0, false, {
                                     fileName: "[project]/components/Demo-FreeTrail.js",
-                                    lineNumber: 42,
+                                    lineNumber: 105,
                                     columnNumber: 13
                                 }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                    onClick: ()=>console.log('Demo clicked'),
-                                    className: "w-full sm:w-auto px-8 py-4 border-2 border-indigo-600 text-indigo-600 font-semibold rounded-xl hover:bg-indigo-50 transition-colors",
-                                    children: "Explore Demo Account"
-                                }, void 0, false, {
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "jsx-c278e179e7ab6d09" + " " + `bg-white/95 backdrop-blur-sm rounded-3xl shadow-2xl p-6 sm:p-8 ${isVisible ? 'animate-scale-in opacity-0 delay-300' : 'opacity-0'} hover:shadow-3xl transition-shadow duration-300`,
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                            className: "jsx-c278e179e7ab6d09" + " " + "text-xl sm:text-2xl font-semibold text-gray-900 mb-4",
+                                            children: "Start Your Free 30-Day Trial"
+                                        }, void 0, false, {
+                                            fileName: "[project]/components/Demo-FreeTrail.js",
+                                            lineNumber: 111,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "jsx-c278e179e7ab6d09" + " " + "space-y-4",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
+                                                    type: "email",
+                                                    value: email,
+                                                    onChange: (e)=>setEmail(e.target.value),
+                                                    placeholder: "Enter your work email",
+                                                    className: "jsx-c278e179e7ab6d09" + " " + "w-full px-6 py-4 text-gray-700 placeholder-gray-400 bg-gray-50 border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-teal-500 focus:border-transparent transition-all duration-300 focus:scale-[1.02]"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/components/Demo-FreeTrail.js",
+                                                    lineNumber: 117,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "jsx-c278e179e7ab6d09" + " " + "flex flex-col sm:flex-row gap-3",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                            onClick: handleStartTrial,
+                                                            className: "jsx-c278e179e7ab6d09" + " " + "group flex-1 px-6 py-4 bg-teal-600 text-white font-semibold rounded-xl hover:bg-teal-700 transition-all duration-300 shadow-lg hover:shadow-2xl transform hover:-translate-y-1 active:scale-95",
+                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                className: "jsx-c278e179e7ab6d09" + " " + "inline-block group-hover:scale-105 transition-transform duration-300",
+                                                                children: "Start Free Trial"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/components/Demo-FreeTrail.js",
+                                                                lineNumber: 131,
+                                                                columnNumber: 21
+                                                            }, this)
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/components/Demo-FreeTrail.js",
+                                                            lineNumber: 127,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                            onClick: ()=>console.log('Demo clicked'),
+                                                            className: "jsx-c278e179e7ab6d09" + " " + "group flex-1 px-6 py-4 border-2 border-teal-600 text-teal-600 font-semibold rounded-xl hover:bg-teal-50 transition-all duration-300 hover:border-teal-700 transform hover:-translate-y-1 active:scale-95",
+                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                className: "jsx-c278e179e7ab6d09" + " " + "inline-block group-hover:scale-105 transition-transform duration-300",
+                                                                children: "View Demo"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/components/Demo-FreeTrail.js",
+                                                                lineNumber: 140,
+                                                                columnNumber: 21
+                                                            }, this)
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/components/Demo-FreeTrail.js",
+                                                            lineNumber: 136,
+                                                            columnNumber: 19
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/components/Demo-FreeTrail.js",
+                                                    lineNumber: 126,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "jsx-c278e179e7ab6d09" + " " + "flex items-center justify-center gap-2 text-sm text-teal-700",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
+                                                            fill: "currentColor",
+                                                            viewBox: "0 0 20 20",
+                                                            className: "jsx-c278e179e7ab6d09" + " " + "w-4 h-4 animate-bounce-gentle",
+                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                                                fillRule: "evenodd",
+                                                                d: "M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z",
+                                                                clipRule: "evenodd",
+                                                                className: "jsx-c278e179e7ab6d09"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/components/Demo-FreeTrail.js",
+                                                                lineNumber: 149,
+                                                                columnNumber: 21
+                                                            }, this)
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/components/Demo-FreeTrail.js",
+                                                            lineNumber: 148,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "jsx-c278e179e7ab6d09",
+                                                            children: "No credit card required • Cancel anytime"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/components/Demo-FreeTrail.js",
+                                                            lineNumber: 151,
+                                                            columnNumber: 19
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/components/Demo-FreeTrail.js",
+                                                    lineNumber: 147,
+                                                    columnNumber: 17
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/components/Demo-FreeTrail.js",
+                                            lineNumber: 115,
+                                            columnNumber: 15
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
                                     fileName: "[project]/components/Demo-FreeTrail.js",
-                                    lineNumber: 50,
+                                    lineNumber: 110,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "jsx-c278e179e7ab6d09" + " " + `pt-6 ${isVisible ? 'animate-slide-up opacity-0 delay-500' : 'opacity-0'}`,
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                            className: "jsx-c278e179e7ab6d09" + " " + "text-white text-sm font-medium mb-4",
+                                            children: "Available on mobile"
+                                        }, void 0, false, {
+                                            fileName: "[project]/components/Demo-FreeTrail.js",
+                                            lineNumber: 158,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "jsx-c278e179e7ab6d09" + " " + "flex flex-wrap gap-4",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                    href: "#",
+                                                    className: "jsx-c278e179e7ab6d09" + " " + "group inline-flex items-center px-6 py-3 bg-black text-white rounded-xl hover:bg-gray-800 transition-all duration-300 shadow-lg hover:shadow-2xl transform hover:-translate-y-1 active:scale-95",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
+                                                            viewBox: "0 0 24 24",
+                                                            fill: "currentColor",
+                                                            className: "jsx-c278e179e7ab6d09" + " " + "w-8 h-8 mr-3 group-hover:scale-110 transition-transform duration-300",
+                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                                                d: "M18.71 19.5C17.88 20.74 17 21.95 15.66 21.97C14.32 22 13.89 21.18 12.37 21.18C10.84 21.18 10.37 21.95 9.1 22C7.79 22.05 6.8 20.68 5.96 19.47C4.25 17 2.94 12.45 4.7 9.39C5.57 7.87 7.13 6.91 8.82 6.88C10.1 6.86 11.32 7.75 12.11 7.75C12.89 7.75 14.37 6.68 15.92 6.84C16.57 6.87 18.39 7.1 19.56 8.82C19.47 8.88 17.39 10.1 17.41 12.63C17.44 15.65 20.06 16.66 20.09 16.67C20.06 16.74 19.67 18.11 18.71 19.5ZM13 3.5C13.73 2.67 14.94 2.04 15.94 2C16.07 3.17 15.6 4.35 14.9 5.19C14.21 6.04 13.07 6.7 11.95 6.61C11.8 5.46 12.36 4.26 13 3.5Z",
+                                                                className: "jsx-c278e179e7ab6d09"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/components/Demo-FreeTrail.js",
+                                                                lineNumber: 166,
+                                                                columnNumber: 21
+                                                            }, this)
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/components/Demo-FreeTrail.js",
+                                                            lineNumber: 165,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                            className: "jsx-c278e179e7ab6d09" + " " + "text-left",
+                                                            children: [
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                    className: "jsx-c278e179e7ab6d09" + " " + "text-xs",
+                                                                    children: "Download on the"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/components/Demo-FreeTrail.js",
+                                                                    lineNumber: 169,
+                                                                    columnNumber: 21
+                                                                }, this),
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                    className: "jsx-c278e179e7ab6d09" + " " + "text-lg font-semibold leading-tight",
+                                                                    children: "App Store"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/components/Demo-FreeTrail.js",
+                                                                    lineNumber: 170,
+                                                                    columnNumber: 21
+                                                                }, this)
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/components/Demo-FreeTrail.js",
+                                                            lineNumber: 168,
+                                                            columnNumber: 19
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/components/Demo-FreeTrail.js",
+                                                    lineNumber: 161,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                    href: "#",
+                                                    className: "jsx-c278e179e7ab6d09" + " " + "group inline-flex items-center px-6 py-3 bg-black text-white rounded-xl hover:bg-gray-800 transition-all duration-300 shadow-lg hover:shadow-2xl transform hover:-translate-y-1 active:scale-95",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
+                                                            viewBox: "0 0 24 24",
+                                                            fill: "currentColor",
+                                                            className: "jsx-c278e179e7ab6d09" + " " + "w-8 h-8 mr-3 group-hover:scale-110 transition-transform duration-300",
+                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                                                d: "M3,20.5V3.5C3,2.91 3.34,2.39 3.84,2.15L13.69,12L3.84,21.85C3.34,21.6 3,21.09 3,20.5M16.81,15.12L6.05,21.34L14.54,12.85L16.81,15.12M20.16,10.81C20.5,11.08 20.75,11.5 20.75,12C20.75,12.5 20.53,12.9 20.18,13.18L17.89,14.5L15.39,12L17.89,9.5L20.16,10.81M6.05,2.66L16.81,8.88L14.54,11.15L6.05,2.66Z",
+                                                                className: "jsx-c278e179e7ab6d09"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/components/Demo-FreeTrail.js",
+                                                                lineNumber: 180,
+                                                                columnNumber: 21
+                                                            }, this)
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/components/Demo-FreeTrail.js",
+                                                            lineNumber: 179,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                            className: "jsx-c278e179e7ab6d09" + " " + "text-left",
+                                                            children: [
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                    className: "jsx-c278e179e7ab6d09" + " " + "text-xs",
+                                                                    children: "GET IT ON"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/components/Demo-FreeTrail.js",
+                                                                    lineNumber: 183,
+                                                                    columnNumber: 21
+                                                                }, this),
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                    className: "jsx-c278e179e7ab6d09" + " " + "text-lg font-semibold leading-tight",
+                                                                    children: "Google Play"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/components/Demo-FreeTrail.js",
+                                                                    lineNumber: 184,
+                                                                    columnNumber: 21
+                                                                }, this)
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/components/Demo-FreeTrail.js",
+                                                            lineNumber: 182,
+                                                            columnNumber: 19
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/components/Demo-FreeTrail.js",
+                                                    lineNumber: 175,
+                                                    columnNumber: 17
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/components/Demo-FreeTrail.js",
+                                            lineNumber: 159,
+                                            columnNumber: 15
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/components/Demo-FreeTrail.js",
+                                    lineNumber: 157,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/Demo-FreeTrail.js",
-                            lineNumber: 31,
+                            lineNumber: 94,
                             columnNumber: 11
                         }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "text-sm text-indigo-600 italic mt-4",
-                            children: "No Payment or Commitment Required"
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "jsx-c278e179e7ab6d09" + " " + `hidden lg:flex justify-center items-center ${isVisible ? 'animate-slide-right opacity-0 delay-400' : 'opacity-0'}`,
+                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "jsx-c278e179e7ab6d09" + " " + "relative group",
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                    src: "/man-removebg-preview.png",
+                                    alt: "Business professional managing accounting on mobile",
+                                    className: "jsx-c278e179e7ab6d09" + " " + "w-full max-w-lg h-auto drop-shadow-2xl transform transition-transform duration-500 group-hover:scale-105"
+                                }, void 0, false, {
+                                    fileName: "[project]/components/Demo-FreeTrail.js",
+                                    lineNumber: 194,
+                                    columnNumber: 15
+                                }, this)
+                            }, void 0, false, {
+                                fileName: "[project]/components/Demo-FreeTrail.js",
+                                lineNumber: 193,
+                                columnNumber: 13
+                            }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/Demo-FreeTrail.js",
-                            lineNumber: 59,
+                            lineNumber: 192,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/Demo-FreeTrail.js",
-                    lineNumber: 30,
+                    lineNumber: 92,
                     columnNumber: 9
                 }, this)
-            ]
-        }, void 0, true, {
-            fileName: "[project]/components/Demo-FreeTrail.js",
-            lineNumber: 16,
-            columnNumber: 7
-        }, this)
-    }, void 0, false, {
+            }, void 0, false, {
+                fileName: "[project]/components/Demo-FreeTrail.js",
+                lineNumber: 91,
+                columnNumber: 7
+            }, this)
+        ]
+    }, void 0, true, {
         fileName: "[project]/components/Demo-FreeTrail.js",
-        lineNumber: 15,
+        lineNumber: 20,
         columnNumber: 5
     }, this);
 }
-_s(FreeTrials, "qu4bovk5U4+JuhY7vxbmswqixrc=");
+_s(FreeTrials, "8zA+mSnte4oyu+x7vtXCWMSxM2w=");
 _c = FreeTrials;
 var _c;
 __turbopack_context__.k.register(_c, "FreeTrials");
